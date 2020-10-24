@@ -1,0 +1,19 @@
+.card:hover .imagess{
+transform-origin: center;
+transform: scale(1.02);
+transition-timing-function: ease-in-out;
+transition-duration: 400ms;
+
+}
+.images:hover{
+ transform-origin: center;
+ transform: scale(1.01);
+ transition-timing-function: ease-in-out;
+ transition-duration: 400ms;
+ width:100px; 
+ height:100px;
+ border-radius:0px;
+
+ 
+}
+

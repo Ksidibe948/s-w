@@ -1,0 +1,28 @@
+.logo2{
+    font-size: 1.5rem;
+    color:#27ae60;
+}
+.logo1{
+    text-decoration: underline double;
+    padding-left: 5px;
+    font-size: 1.5rem;
+}
+.logo{
+    border-top: solid black 1px;
+    width: 50px;
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+}
+.colonnes {
+    border: 1px solid #ced6e0;
+}
+.supprimer_modifier{
+    margin-left: 200px;
+}
+.commentaires{
+    margin-left:160px;
+   
+    padding: 5px;
+   
+  
+}

@@ -1,0 +1,22 @@
+.card:hover .imagess{
+    transform-origin: center;
+    transform: scale(1.02);
+    transition-timing-function: ease-in-out;
+    transition-duration: 400ms;
+    
+    }
+
+.dropdown:hover>.dropdown-menu{
+    display:block;
+}
+.imagie:hover{
+    transform-origin: center;
+    transform: scale(1.05);
+    transition-timing-function: ease-in-out;
+    transition-duration: 400ms;
+
+    
+    }
+.overflow-auto{
+    color: chartreuse;
+}

@@ -1,0 +1,8 @@
+body{
+    background-image: url(../imagess/apprentissage2.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+   opacity: 10rem;
+}

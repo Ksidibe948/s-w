@@ -1,0 +1,6 @@
+.imagess:hover{
+    transition-duration:400ms;
+    transform: scale(1.01);
+    transition-timing-function: ease-in-out;
+    
+}
